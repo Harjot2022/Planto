@@ -1,12 +1,12 @@
 import heroImage from "../assets/heroImage.png";
 
-import image2 from "../assets/image2.png";
-import image3 from "../assets/image3.png";
-import image4 from "../assets/image4.png";
-import image5 from "../assets/image5.png";
-import image6 from "../assets/image6.png";
-import image7 from "../assets/image7.png";
-import image8 from "../assets/image8.png";
+import Image2 from "../assets/Image2.png";
+import Image3 from "../assets/Image3.png";
+import Image4 from "../assets/Image4.png";
+import Image5 from "../assets/Image5.png";
+import Image6 from "../assets/Image6.png";
+import Image7 from "../assets/Image7.png";
+import Image8 from "../assets/Image8.png";
 
 import bg from "../assets/bg.png";
 
@@ -93,19 +93,19 @@ export const IMAGES = {
   heroCard: heroImage,
 
   // Trendy section — horizontal cards
-  trendy1: image8,
-  trendy2: image7,
+  trendy1: Image8,
+  trendy2: Image7,
 
   // Top Selling grid (6 plants)
-  sell1: image6,
-  sell2: image8,
-  sell3: image4,
-  sell4: image3,
-  sell5: image2,
-  sell6: image5,
+  sell1: Image6,
+  sell2: Image8,
+  sell3: Image4,
+  sell4: Image3,
+  sell5: Image2,
+  sell6: Image5,
 
   // Best O2 feature section
-  bestO2: image3,
+  bestO2: Image3,
 
   // Reviewer avatars (initials-based, no real photos needed)
 }
